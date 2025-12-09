@@ -46,7 +46,18 @@ Manually sorting emails is slow, repetitive, and inefficient. Users need a **sma
 This ensures a clean, organized, and stress-free Gmail inbox continuously.
 
 ---
+## ✨ Features
 
+- ✔ **AI-driven email classification** using Google Gemini
+- ✔ **Automatic spam detection & deletion**
+- ✔ **Auto-unsubscribe** from newsletters
+- ✔ **Promotion filtering & cleanup**
+- ✔ **Social email archiving**
+- ✔ **Important mail preservation**
+- ✔ **Cloud-scheduled execution** using Kaggle Notebooks
+- ✔ **OAuth-secured Gmail access**
+- ✔ **Fully automated daily cleaning**
+---
 ## 🛠 Tech Stack
 
 - Python  
